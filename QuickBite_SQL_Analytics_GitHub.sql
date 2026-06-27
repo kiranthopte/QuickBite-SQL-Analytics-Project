@@ -11,11 +11,6 @@
  and Query Optimization with Indexes.
 
 ****************************************************************************************/
-
--- QuickBite Express - Crisis Recovery Analysis
--- Table Setup Script
--- Tool: MySQL
--- Analyst: Kiran Thopte
 CREATE DATABASE IF NOT EXISTS quickbite_db;
 USE quickbite_db;
 
