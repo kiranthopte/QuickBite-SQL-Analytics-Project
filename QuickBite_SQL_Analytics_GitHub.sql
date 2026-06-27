@@ -1,7 +1,7 @@
 /****************************************************************************************
  Project      : QuickBite SQL Analytics
  Author       : Kiran Thopte
- Database     : MySQL 8.0
+ Database     : MySQL 8.0.46
 
  Description
  -----------
@@ -9,12 +9,6 @@
  food delivery dataset. Queries demonstrate production-style SQL using CTEs, Window
  Functions, Aggregations, Date Functions, RFM Analysis, Cohort Analysis, Pareto Analysis,
  and Query Optimization with Indexes.
-
- NOTE:
- - Each business problem is separated by comment blocks.
- - Recommended fixes:
-   * Highest-selling menu item query -> WHERE RN = 1
-   * RFM Recency score -> use ASC order or invert scores.
 
 ****************************************************************************************/
 
